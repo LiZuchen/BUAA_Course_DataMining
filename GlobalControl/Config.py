@@ -1,1 +1,2 @@
 ReadFliter_Detail_Show=0
+ReadFliter_Detail_Show_paperID=1

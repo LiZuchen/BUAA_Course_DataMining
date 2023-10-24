@@ -1,0 +1,10 @@
+2582743722 R A language and environment for statistical computing 2014/1/1 0 93737 0 2764414412
+1951724000 Fitting Linear Mixed-Effects Models Using lme4 2015/10/7 34 18742 0 167961193
+2194775991 Deep Residual Learning for Image Recognition 2016/6/27 51 32577 1158167855 0
+2919115771 Deep learning 2015/5/28 32 17742 0 137773608
+2280404143 The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3) 2016/2/23 37 4541 0 172573765
+1522301498 Adam A Method for Stochastic Optimization 2014/12/22 20 19684 0 2597173376
+1686810756 Very Deep Convolutional Networks for Large-Scale Image Recognition 2014/9/4 30 19246 1158167855 0
+1901129140 U-Net Convolutional Networks for Biomedical Image Segmentation 2015/10/5 13 10227 1129324708 0
+3004903761 Predicción y selección de variables con bosques aleatorios en presencia de variables correlacionadas 2020/2/7 0 7462 0 0
+2095705004 Dropout a simple way to prevent neural networks from overfitting 2014/1/1 35 12638 0 118988714
